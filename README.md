@@ -1,3 +1,5 @@
+This package is published merely to enable the use of `react-rte` with `react@0.14.x`. This probably breaks something somewhere. You've been warned!
+
 # React Rich Text Editor
 
 ![Build Status](https://travis-ci.org/sstur/react-rte.svg?branch=master)

@@ -1,6 +1,6 @@
 {
   "name": "jlegrone-react-rte",
-  "version": "0.1.13.1",
+  "version": "0.1.13.2",
   "description": "React Rich Text Editor",
   "main": "dist/react-rte.js",
   "scripts": {
@@ -24,8 +24,8 @@
     "immutable": "^3.7.6"
   },
   "peerDependencies": {
-    "react": "^0.14.2",
-    "react-dom": "^0.14.2"
+    "react": "^0.14.*",
+    "react-dom": "^0.14.*"
   },
   "devDependencies": {
     "babel-cli": "^6.7.5",
@@ -47,14 +47,14 @@
     "flow-bin": "0.20.1",
     "mocha": "^2.4.5",
     "raw-loader": "^0.5.1",
-    "react-addons-test-utils": "^0.14.2",
+    "react-addons-test-utils": "^0.14.*",
     "rimraf": "^2.5.2",
     "style-loader": "^0.13.1",
     "webpack": "^1.12.14"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sstur/react-rte.git"
+    "url": "git+https://github.com/jlegrone/react-rte.git"
   },
   "keywords": [
     "reactjs",
